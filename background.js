@@ -1,9 +1,16 @@
+// This is a list of youtube music videos, you can get this code from
+// youtube URL https://www.youtube.com/watch?<code>
+// Keep it classy
 var youtubeURLs = [ 
 "2Vv-BfVoq4g",
 "e-ORhEE9VVg",
 "450p7goxZqg",
 "OPf0YbXqDm0",
+"UqyT8IEBkvY",
 "t4H_Zoh7G5A",
+"lp-EO5I60KA",
+"OPf0YbXqDm0",
+"wX0U75MsCkg",
 "EPo5wWmKEaI",
 "SmM0653YvXU",
 "KQ6zr6kCPj8",
