@@ -16,6 +16,8 @@ var youtubeURLs = [
 "KQ6zr6kCPj8",
 "IgLcQmlN2Xg",
 "qMxX-QOV9tI",
+"DUT5rEU6pqM",
+"IsUsVbTj2AY",
 "PMivT7MJ41M",
 "pa14VNsdSYM",
 "JwQZQygg3Lk",
