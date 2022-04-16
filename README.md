@@ -5,3 +5,5 @@ Chrome extension that plays a random song every time you click on it. Background
 Have fun!
 
 You can install the extension here https://chrome.google.com/webstore/detail/random-song/epeedgbmcfklcjnefkjpgdeidkppgjbl
+
+Shoutout to https://kworb.net/ for list of songs.
