@@ -1,4 +1,5 @@
-// This number how many songs will be considered to choose a random song from.
+// A song will be chosen at random from a set of songs, this number determines
+// the sample size of the set from which a song will be chose.
 // e.g., number 100 means a song will be chosen at random from top 1-100 songs
 // number 500 means a song will be chosen from top 1-500 songs.
 var topN = 200;
