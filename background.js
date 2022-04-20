@@ -120,7 +120,7 @@ var mostPopularSong =
 "JRfuAukYTKg", // David Guetta - Titanium ft. Sia (Official Video)     
 "gCYcHz2k5x0", // Martin Garrix - Animals (Official Video)     
 "1G4isv_Fylg", // Coldplay - Paradise (Official Video)     
-"2S24-y0Ij3Y", // BLACKPINK - 'Kill This Love' M/V     
+// "2S24-y0Ij3Y", // BLACKPINK - 'Kill This Love' M/V     
 "ru0K8uYEZWw", // CAN'T STOP THE FEELING! (from DreamWorks Animation's "TROLLS") (Official Video)     
 "qrO4YZeyl0I", // Lady Gaga - Bad Romance (Official Music Video)     
 // "KWGrPNqz4uc", // Ozuna - Se Preparó (Video Oficial) | Odisea     
@@ -182,7 +182,7 @@ var mostPopularSong =
 "iS1g8G_njx8", // Ariana Grande ft. Iggy Azalea - Problem (Official Video)     
 "Bznxx12Ptl0", // AronChupa, Little Sis Nora - I'm an Albatraoz | OFFICIAL VIDEO     
 "3tmd-ClpJxA", // Taylor Swift - Look What You Made Me Do     
-"tbneQDc2H3I", // KAROL G, Nicki Minaj - Tusa (Official Video)     
+// "tbneQDc2H3I", // KAROL G, Nicki Minaj - Tusa (Official Video)     
 "bpOSxM0rNPM", // Arctic Monkeys - Do I Wanna Know? (Official Video)     
 "c73Cu3TQnlg", // Chris Jedi - Ahora Dice (Official Video) ft. J. Balvin, Ozuna, Arcángel     
 "LjxulQ1bEWg", // Tyga - Taste (Official Video) ft. Offset     
