@@ -282,7 +282,7 @@ var mostPopularSong =
 "hcm55lU9knw", // Michel Teló - Ai Se Eu Te Pego -  Video Oficial (Assim você me mata)     
 "jofNR_WkoCE", // Ylvis - The Fox (What Does The Fox Say?) [Official music video HD]     
 "zDo0H8Fm7d0", // Bebe Rexha - Meant to Be (feat. Florida Georgia Line) [Official Music Video]     
-"xFutjZEBTXs", // Enrique Iglesias - DUELE EL CORAZON ft. Wisin     
+// "xFutjZEBTXs", // Enrique Iglesias - DUELE EL CORAZON ft. Wisin     
 "Xk0wdDTTPA0", // Maluma - Borro Cassette (Official Video)     
 "LDZX4ooRsWs", // Nicki Minaj - Anaconda     
 "f6vY6tYvKGA", // Cham Cham Full Video | BAAGHI | Tiger Shroff, Shraddha Kapoor| Meet Bros, Monali Thakur| Sabbir Khan     
@@ -508,7 +508,7 @@ var mostPopularSong =
 "WXBHCQYxwr0", // Ava Max - Sweet but Psycho [Official Music Video]     
 "ij_0p_6qTss", // Selena Gomez - The Heart Wants What It Wants (Official Video)     
 "F3uzNaw-uhE", // Piso 21 - Me Llamas (feat. Maluma) [Remix] | Video Oficial     
-"4DO8GsIYfhQ", // Enrique Iglesias, Juan Luis Guerra - Cuando Me Enamoro (Official Music Video)     
+// "4DO8GsIYfhQ", // Enrique Iglesias, Juan Luis Guerra - Cuando Me Enamoro (Official Music Video)     
 "DkeiKbqa02g", // Calvin Harris, Dua Lipa - One Kiss (Official Video)     
 "j1_JW7An2l0", // Farruko, Bad Bunny, Rvssian - Krippy Kush (Official Video)     
 "tD4HCZe-tew", // Zara Larsson - Lush Life     
@@ -746,7 +746,7 @@ var mostPopularSong =
 "cwQgjq0mCdE", // Kanye West &amp; Lil Pump - I Love It feat. Adele Givens [Official Music Video]     
 "k2C5TjS2sh4", // Roxette - It Must Have Been Love (Official Music Video)     
 "EfF9EE6ZR5E", // Daddy Yankee - Sígueme y Te Sigo (Video Oficial)     
-"RSyUWjftHrs", // Enrique Iglesias - Loco ft. Romeo Santos     
+// "RSyUWjftHrs", // Enrique Iglesias - Loco ft. Romeo Santos     
 "j-sz8M8gc6U", // Ozuna x Bad Bunny x Wisin x Almighty X Dj Luian X Mambo Kingz - Solita     
 "oofSnsGkops", // James Blunt - You're Beautiful (Official Music Video) [4K]     
 "ViwtNLUqkMY", // Beyoncé - Crazy In Love ft. JAY Z     
